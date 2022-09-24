@@ -11,7 +11,6 @@
 ### GitHub Analytics
  ![Walderney GitHub stats](https://github-readme-stats.vercel.app/api?username=wanoliveiraa&show_icons=true&theme=dracula) 
  [![Walderney Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanoliveiraa&layout=compact&theme=dracula)](https://github.com/wanoliveiraa)
- 
 ### Tecnologias
 <div style="display: inline_block"><br/>
      <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
